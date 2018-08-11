@@ -7,3 +7,10 @@
 
 # .tfvars files
 *.tfvars
+
+# Binaries
+bin
+
+# Env
+.envrc*
+
